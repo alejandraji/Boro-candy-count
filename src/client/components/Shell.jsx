@@ -18,7 +18,7 @@ export function Shell() {
     >
       <AppBar position="static">
         <Toolbar style={{ display: "flex", justifyContent: "center" }}>
-          <Typography><h1>Candy App</h1></Typography>
+          <Typography><h1>Borough Candy Count</h1></Typography>
         </Toolbar>
       </AppBar>
       <main style={{ flexGrow: 1, display: "flex", flexDirection: "column" }}>
